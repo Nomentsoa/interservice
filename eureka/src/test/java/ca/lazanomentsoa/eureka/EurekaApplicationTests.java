@@ -1,14 +1,13 @@
-package ca.lazanomentsoa.consummer;
+package ca.lazanomentsoa.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
+class EurekaApplicationTests {
 
-class ConsummerApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
