@@ -18,6 +18,7 @@
         </processorPath>
         <module name="consummer" />
         <module name="provider" />
+        <module name="consummer" />
       </profile>
     </annotationProcessing>
   </component>
